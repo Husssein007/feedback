@@ -1,0 +1,2 @@
+Visualgo is a highly recommended online resource for understanding and visualizing various data structures and algorithms.
+Visualgo is a valuable resource for anyone looking to enhance their understanding of data structures and algorithms through visual learning
